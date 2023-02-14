@@ -6,6 +6,7 @@
 
 int main()
 {
+    std::cout << "hello wim";
     return 0;
 }
 
